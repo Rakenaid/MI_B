@@ -56,6 +56,12 @@ local function DropdownTier2(self)
 	CloseDropDownMenus();
 end
 
+local function DropdownTier3(self)
+	module.active = self.value
+	mog:SetModule(self.arg1,"Sub Sets - "..self.value);
+	CloseDropDownMenus();
+end
+
 function module.Dropdown(module,tier)
 	local info;
 	if tier == 1 then
@@ -73,6 +79,7 @@ function module.Dropdown(module,tier)
 			info.text = v;
 			-- info.value = v; -- value equals text if omitted!
 			info.notCheckable = true;
+			info.hasArrow = true;
 			info.func = DropdownTier2;
 			info.arg1 = module;
 			UIDropDownMenu_AddButton(info,tier);
