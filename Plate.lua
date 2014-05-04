@@ -396,4 +396,4 @@ s(-357,"Tempered Saronite Battlegear (Recolor)",{35670,36342,36341,36339,36344,3
 s(312,"Warbringer's Plate",{14943,14941,14939,14942,14945,14940},nil) --312; Plate
 s(353,"Warlord's Plate",{25024,25025,25022,25027,25029,25023},nil) --353; Plate
 s(1541,"Zandalari Freethinker's Plate",{18380,21453,29959,30968,94041,94040,94039},nil) --1541; Plate
-s(1540,"Zandalari Vindicator Plate",{94035,94032,94033,94030,94031,94043,94034},nil }--1540; Plate
+s(1540,"Zandalari Vindicator Plate",{94035,94032,94033,94030,94031,94043,94034},nil)--1540; Plate
