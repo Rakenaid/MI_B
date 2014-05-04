@@ -1,7 +1,7 @@
 local a,t=...
 local s=t.AddMail
 s(544,"Ahn'Kahar Blood Hunter's Battlegear",{54566,50114,50115,50116,50118,50789,50762,50812},4) --544; Mail
-s(-469,s"Ahn'Kahar Blood Hunter's Battlegear (Lookalike)",{49901,50970,50979,50022,50413,49952,50071,50000},nil) --544; Mail
+s(-469,"Ahn'Kahar Blood Hunter's Battlegear (Lookalike)",{49901,50970,50979,50022,50413,49952,50071,50000},nil) --544; Mail
 s(-470,"Ahn'Kahar Blood Hunter's Battlegear (Lookalike)",{49901,50970,50979,51891,51877,51911,51853,51914},nil) --544; Mail
 s(-471,"Ahn'Kahar Blood Hunter's Battlegear (Lookalike)",{54566,50800,50812,50777,51002,51566,51325,50789},nil) --544; Mail
 s(-472,"Ahn'Kahar Blood Hunter's Battlegear (Lookalike)",{50689,50619,50673,50645,50688,50655,50605,50711},nil) --544; Mail
